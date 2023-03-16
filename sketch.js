@@ -1,3 +1,5 @@
+let pic;
+
 function preload() {
   pic = loadImage("")
 
